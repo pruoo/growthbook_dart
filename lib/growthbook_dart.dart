@@ -1,4 +1,4 @@
-library growthbook_sdk_flutter;
+library growthbook_dart;
 
 export 'src/Annotation/gb_features_deserializer.dart';
 export 'src/Evaluator/condition_evaluator.dart';
