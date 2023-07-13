@@ -1,4 +1,4 @@
-import 'package:growthbook_dart/growthbook_sdk_flutter.dart';
+import 'package:growthbook_dart/growthbook_dart.dart';
 
 /// Experiment Evaluator Class
 /// Takes Context & Experiment & returns Experiment Result
